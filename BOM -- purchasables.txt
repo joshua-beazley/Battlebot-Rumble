@@ -1,0 +1,10 @@
+Screw (x6). M2, 0.4, length -- mount plastic 18 tooth gear to motor
+Screw (x8). M3, ??, length  -- mount alum 42 tooth gear to wheel
+Screw (x4). M3, ??, 35mm    -- mount drive motor to frame
+Screw (x8). M3, ??, 6mm     -- mount drive motor to frame
+Heat set insert (x8). M3x4x4. -- mount drive motor to frame
+Hex nut (x8). 5/16"-18.     -- secure wheel axel. secure tension adjuster.
+
+Motor (x3). Sunnysky x2212 980kv
+Gear  (x4). Palm Beach Bots. 42 tooth pully
+
